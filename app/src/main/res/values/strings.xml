@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">People Pinpoint</string>
+    <string name="api_key">AIzaSyABFyHpkW8299GA1ZAD_x650e0OxUom5gk</string>
+
+    <string name="start_here_text_view_sign_in">Start here!</string>
+    <string name="email_edit_text_sign_in">Email</string>
+    <string name="password_edit_text_sign_in">Password</string>
+    <string name="sign_in_button_sign_in">SIGN IN</string>
+    <string name="or_text_view_sign_in">or</string>
+    <string name="sign_up_button_sign_in">SIGN UP</string>
+    <string name="email_error_sign_in">Email should not be empty!</string>
+    <string name="password_error_sign_in">Password should not be empty!</string>
+    <string name="signing_in_progress_sign_in">Signing in</string>
+    <string name="connection_error_sign_in">Connection unavailable!</string>
+    <string name="credentials_error_sign_in">Incorrect email or password!</string>
+
+    <string name="create_a_new_account_text_view_sign_up">Create a new account</string>
+    <string name="name_edit_text_sign_up">Name</string>
+    <string name="email_edit_text_sign_up">Email</string>
+    <string name="password_edit_text_sign_up">Password</string>
+    <string name="confirm_password_edit_text_sign_up">Confirm password</string>
+    <string name="sign_up_button_sign_up">SIGN UP</string>
+    <string name="name_error_1_sign_up">Name should contain only alphabets and spaces!</string>
+    <string name="name_error_2_sign_up">Name should start and end only with alphabets!</string>
+    <string name="name_error_3_sign_up">Name should not contain consecutive spaces!</string>
+    <string name="name_error_4_sign_up">Name should contain at least 5 characters!</string>
+    <string name="email_error_1_sign_up">Email should be valid and its required for verification!</string>
+    <string name="password_error_sign_up">Password should contain at least 6 characters!</string>
+    <string name="confirm_password_error_sign_up">Confirm password should match password!</string>
+    <string name="signing_up_progress_sign_up">Signing up</string>
+    <string name="connection_error_sign_up">Connection unavailable!</string>
+    <string name="email_error_2_sign_up">Email already linked to another account!</string>
+    <string name="sign_up_successful_sign_up">Sign up successful!</string>
+
+    <string name="people_page_title_home">PEOPLE</string>
+    <string name="search_page_title_home">SEARCH</string>
+    <string name="map_page_title_home">MAP</string>
+    <string name="search_item_home">Search</string>
+    <string name="account_item_home">Account</string>
+    <string name="sign_out_item_home">Sign out</string>
+
+    <string name="people_text_view_people">Swipe down to refresh</string>
+    <string name="connection_error_people">Connection unavailable!</string>
+    <string name="received_requests_header_people">Received</string>
+    <string name="sent_requests_header_people">Sent</string>
+    <string name="people_header_people">People</string>
+
+    <string name="search_text_view_search">Search to add people</string>
+    <string name="no_people_found_text_view_search">No people found!</string>
+    <string name="query_hint_search">Search people</string>
+    <string name="connection_error_search">Connection unavailable!</string>
+
+    <string name="last_seen_seconds_map">Last seen: %d seconds ago</string>
+    <string name="last_seen_minutes_map">Last seen: %d minutes ago</string>
+    <string name="last_seen_hours_map">Last seen: %d hours ago</string>
+    <string name="last_seen_days_map">Last seen: %d days ago</string>
+    <string name="location_error_map">Location unavailable!</string>
+
+    <string name="change_password_button_account">CHANGE PASSWORD</string>
+
+</resources>

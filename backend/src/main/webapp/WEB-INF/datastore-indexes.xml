@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<datastore-indexes autoGenerate="true">
+
+    <datastore-index ancestor="false" kind="Person" source="manual">
+
+        <property name="name" direction="asc" />
+        <property name="email" direction="asc" />
+
+    </datastore-index>
+
+    <datastore-index ancestor="false" kind="Person" source="manual">
+
+        <property name="__key__" direction="asc" />
+        <property name="name" direction="asc" />
+        <property name="email" direction="asc" />
+
+    </datastore-index>
+
+    <datastore-index ancestor="false" kind="Person" source="manual">
+
+        <property name="__key__" direction="asc" />
+        <property name="name" direction="asc" />
+        <property name="email" direction="asc" />
+        <property name="latitude" direction="asc" />
+        <property name="longitude" direction="asc" />
+        <property name="locationUpdateTime" direction="asc" />
+
+    </datastore-index>
+
+</datastore-indexes>

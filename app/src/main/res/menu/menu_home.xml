@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".peoplepinpoint.ui.HomeFragment">
+
+    <item
+        android:id="@+id/search_item_home"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/search_item_home"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/account_item_home"
+        android:title="@string/account_item_home"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/sign_out_item_home"
+        android:title="@string/sign_out_item_home"
+        app:showAsAction="never" />
+
+</menu>
