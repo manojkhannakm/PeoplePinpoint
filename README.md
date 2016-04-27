@@ -2,7 +2,7 @@
 
 ### Introduction
 
-An Android application that tracks the location of added people. The backend of the application uses Google App Engine.
+An Android application that tracks the location of added people. The backend of the application uses Google App Engine and Google Cloud Datastore.
 
 ### Preview
 
