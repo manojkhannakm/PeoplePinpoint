@@ -1,7 +1,7 @@
-package com.peoplepinpoint.peoplepinpoint.backend.model;
+package com.manojkhannakm.peoplepinpoint.backend.model;
 
 import com.google.appengine.api.datastore.Entity;
-import com.peoplepinpoint.peoplepinpoint.backend.Constants;
+import com.manojkhannakm.peoplepinpoint.backend.Constants;
 
 import java.util.ArrayList;
 

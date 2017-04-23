@@ -1,4 +1,4 @@
-package com.peoplepinpoint.peoplepinpoint;
+package com.manojkhannakm.peoplepinpoint;
 
 /**
  * @author Manoj Khanna

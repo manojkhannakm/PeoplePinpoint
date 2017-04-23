@@ -1,4 +1,4 @@
-package com.peoplepinpoint.peoplepinpoint.ui;
+package com.manojkhannakm.peoplepinpoint.ui;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -7,8 +7,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.peoplepinpoint.peoplepinpoint.R;
-import com.peoplepinpoint.peoplepinpoint.entity.PersonEntity;
+import com.manojkhannakm.peoplepinpoint.R;
+import com.manojkhannakm.peoplepinpoint.entity.PersonEntity;
 
 /**
  * @author Manoj Khanna

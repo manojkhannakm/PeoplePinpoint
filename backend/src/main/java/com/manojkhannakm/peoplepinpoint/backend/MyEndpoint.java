@@ -1,4 +1,4 @@
-package com.peoplepinpoint.peoplepinpoint.backend;
+package com.manojkhannakm.peoplepinpoint.backend;
 
 import com.google.api.server.spi.config.Api;
 import com.google.api.server.spi.config.ApiMethod;
@@ -13,7 +13,7 @@ import com.google.appengine.api.datastore.KeyFactory;
 import com.google.appengine.api.datastore.PreparedQuery;
 import com.google.appengine.api.datastore.PropertyProjection;
 import com.google.appengine.api.datastore.Query;
-import com.peoplepinpoint.peoplepinpoint.backend.model.Person;
+import com.manojkhannakm.peoplepinpoint.backend.model.Person;
 
 import java.util.ArrayList;
 import java.util.Iterator;

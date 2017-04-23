@@ -1,4 +1,4 @@
-package com.peoplepinpoint.peoplepinpoint.ui;
+package com.manojkhannakm.peoplepinpoint.ui;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -22,11 +22,11 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.appspot.people_pinpoint.myApi.model.Person;
-import com.peoplepinpoint.peoplepinpoint.Constants;
-import com.peoplepinpoint.peoplepinpoint.R;
-import com.peoplepinpoint.peoplepinpoint.backend.EndpointAsyncTask;
-import com.peoplepinpoint.peoplepinpoint.entity.PersonEntity;
-import com.peoplepinpoint.peoplepinpoint.service.LocationService;
+import com.manojkhannakm.peoplepinpoint.Constants;
+import com.manojkhannakm.peoplepinpoint.R;
+import com.manojkhannakm.peoplepinpoint.backend.EndpointAsyncTask;
+import com.manojkhannakm.peoplepinpoint.entity.PersonEntity;
+import com.manojkhannakm.peoplepinpoint.service.LocationService;
 
 import java.io.IOException;
 import java.util.ArrayList;

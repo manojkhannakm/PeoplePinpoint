@@ -1,4 +1,4 @@
-package com.peoplepinpoint.peoplepinpoint;
+package com.manojkhannakm.peoplepinpoint;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

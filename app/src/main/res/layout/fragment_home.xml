@@ -7,7 +7,7 @@
     android:orientation="vertical"
     tools:context=".peoplepinpoint.ui.HomeFragment">
 
-    <com.peoplepinpoint.peoplepinpoint.ui.widget.SlidingTabLayout
+    <com.manojkhannakm.peoplepinpoint.ui.widget.SlidingTabLayout
         android:id="@+id/sliding_tab_layout_home"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

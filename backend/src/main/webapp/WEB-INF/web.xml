@@ -10,7 +10,7 @@
         <init-param>
 
             <param-name>services</param-name>
-            <param-value>com.peoplepinpoint.peoplepinpoint.backend.MyEndpoint</param-value>
+            <param-value>com.manojkhannakm.peoplepinpoint.backend.MyEndpoint</param-value>
 
         </init-param>
 

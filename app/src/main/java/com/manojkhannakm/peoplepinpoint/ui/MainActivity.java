@@ -1,4 +1,4 @@
-package com.peoplepinpoint.peoplepinpoint.ui;
+package com.manojkhannakm.peoplepinpoint.ui;
 
 import android.content.Context;
 import android.content.Intent;
@@ -8,10 +8,10 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
-import com.peoplepinpoint.peoplepinpoint.Constants;
-import com.peoplepinpoint.peoplepinpoint.R;
-import com.peoplepinpoint.peoplepinpoint.entity.PersonEntity;
-import com.peoplepinpoint.peoplepinpoint.service.LocationService;
+import com.manojkhannakm.peoplepinpoint.Constants;
+import com.manojkhannakm.peoplepinpoint.R;
+import com.manojkhannakm.peoplepinpoint.entity.PersonEntity;
+import com.manojkhannakm.peoplepinpoint.service.LocationService;
 
 /**
  * @author Manoj Khanna

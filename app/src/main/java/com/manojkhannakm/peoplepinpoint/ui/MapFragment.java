@@ -1,4 +1,4 @@
-package com.peoplepinpoint.peoplepinpoint.ui;
+package com.manojkhannakm.peoplepinpoint.ui;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -21,8 +21,8 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
-import com.peoplepinpoint.peoplepinpoint.Constants;
-import com.peoplepinpoint.peoplepinpoint.R;
+import com.manojkhannakm.peoplepinpoint.Constants;
+import com.manojkhannakm.peoplepinpoint.R;
 
 /**
  * @author Manoj Khanna

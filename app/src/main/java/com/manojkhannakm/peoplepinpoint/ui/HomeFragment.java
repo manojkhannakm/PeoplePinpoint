@@ -1,4 +1,4 @@
-package com.peoplepinpoint.peoplepinpoint.ui;
+package com.manojkhannakm.peoplepinpoint.ui;
 
 import android.content.Context;
 import android.content.Intent;
@@ -17,10 +17,10 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.peoplepinpoint.peoplepinpoint.Constants;
-import com.peoplepinpoint.peoplepinpoint.R;
-import com.peoplepinpoint.peoplepinpoint.service.LocationService;
-import com.peoplepinpoint.peoplepinpoint.ui.widget.SlidingTabLayout;
+import com.manojkhannakm.peoplepinpoint.Constants;
+import com.manojkhannakm.peoplepinpoint.R;
+import com.manojkhannakm.peoplepinpoint.service.LocationService;
+import com.manojkhannakm.peoplepinpoint.ui.widget.SlidingTabLayout;
 
 import java.lang.ref.WeakReference;
 

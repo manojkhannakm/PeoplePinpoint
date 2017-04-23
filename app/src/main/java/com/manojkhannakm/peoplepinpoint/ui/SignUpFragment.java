@@ -1,4 +1,4 @@
-package com.peoplepinpoint.peoplepinpoint.ui;
+package com.manojkhannakm.peoplepinpoint.ui;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -11,9 +11,9 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.appspot.people_pinpoint.myApi.model.Person;
-import com.peoplepinpoint.peoplepinpoint.Constants;
-import com.peoplepinpoint.peoplepinpoint.R;
-import com.peoplepinpoint.peoplepinpoint.backend.EndpointAsyncTask;
+import com.manojkhannakm.peoplepinpoint.Constants;
+import com.manojkhannakm.peoplepinpoint.R;
+import com.manojkhannakm.peoplepinpoint.backend.EndpointAsyncTask;
 
 import java.io.IOException;
 

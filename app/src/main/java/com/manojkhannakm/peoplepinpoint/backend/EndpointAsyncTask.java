@@ -1,4 +1,4 @@
-package com.peoplepinpoint.peoplepinpoint.backend;
+package com.manojkhannakm.peoplepinpoint.backend;
 
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -7,7 +7,7 @@ import android.os.AsyncTask;
 import com.appspot.people_pinpoint.myApi.MyApi;
 import com.google.api.client.extensions.android.http.AndroidHttp;
 import com.google.api.client.extensions.android.json.AndroidJsonFactory;
-import com.peoplepinpoint.peoplepinpoint.Constants;
+import com.manojkhannakm.peoplepinpoint.Constants;
 
 /**
  * @author Manoj Khanna

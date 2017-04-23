@@ -1,4 +1,4 @@
-package com.peoplepinpoint.peoplepinpoint.backend;
+package com.manojkhannakm.peoplepinpoint.backend;
 
 /**
  * @author Manoj Khanna

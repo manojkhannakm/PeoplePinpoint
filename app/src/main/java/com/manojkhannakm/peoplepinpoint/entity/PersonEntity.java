@@ -1,4 +1,4 @@
-package com.peoplepinpoint.peoplepinpoint.entity;
+package com.manojkhannakm.peoplepinpoint.entity;
 
 import android.os.Parcel;
 import android.os.Parcelable;

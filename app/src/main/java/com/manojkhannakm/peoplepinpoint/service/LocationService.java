@@ -1,4 +1,4 @@
-package com.peoplepinpoint.peoplepinpoint.service;
+package com.manojkhannakm.peoplepinpoint.service;
 
 import android.app.Service;
 import android.content.Intent;
@@ -15,8 +15,8 @@ import com.google.android.gms.location.LocationRequest;
 import com.google.android.gms.location.LocationServices;
 import com.google.api.client.extensions.android.http.AndroidHttp;
 import com.google.api.client.extensions.android.json.AndroidJsonFactory;
-import com.peoplepinpoint.peoplepinpoint.Constants;
-import com.peoplepinpoint.peoplepinpoint.entity.PersonEntity;
+import com.manojkhannakm.peoplepinpoint.Constants;
+import com.manojkhannakm.peoplepinpoint.entity.PersonEntity;
 
 import java.io.IOException;
 
