@@ -1,4 +1,4 @@
-# PeoplePinpoint
+# People Pinpoint
 
 ### Introduction
 
